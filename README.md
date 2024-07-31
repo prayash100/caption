@@ -1,0 +1,1 @@
+Welcome to this repository. It consisits of a model which is trained to predict a good caption for the picture that will be taken as input as its path in system from user. it is trained over a large dataset as Flickr data set which consists of around 8000 pictures and their also 5 comments are present for each picture . The model is created using CNN and RNN . 
